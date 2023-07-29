@@ -3,24 +3,55 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+I'm an incoming PhD student in Tsinghua University, advised by [Jianyong Wang](http://dbgroup.cs.tsinghua.edu.cn/wangjy/). Meanwhile, I'm working as a research intern in Microsoft Research Asia, mentored by [Li Dong](http://dong.li/). My research interest is the LLM backbone, long sequence’s modeling and inference, and LLM’s application on other domains.
 
-<br/>
+Email: syt23@mails.tsinghua.edu.cn  
+Links: \[[GitHub](https://github.com/sunyt32)\] \[[Twitter](https://twitter.com/sunyt_thu)\] \[[Google Scholar](https://scholar.google.com/citations?user=apGDooYAAAAJ&hl=en)\]
 
-# Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+# Education
+* Ph.D. student, Tsinghua University (2023/08 ~ )
+  * Incoming...
+* Undergrauate student, Tsinghua University (2018/08 ~ 2023/07)
+  * Computer Science and Technology (2020/08 ~ 2023/07)
+  * Mathematics and Physics (2018/08 ~ 2020/07)
+* Taiyuan No.5 Middle School (2015/08 ~ 2018/07)
+  * Participated in Physics Olympics and achieved nothing
 
-<br/>
 
-# Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+# Recent News
+* (07/2023) Gave a talk at DAMO Academy about RetNet
+* (07/2023) Gave a talk at BAAI about RetNet
+
+# Publications
+
+## Preprint
+* [**Retentive Network: A Successor to Transformer for Large Language Models**](https://arxiv.org/pdf/2307.08621.pdf)  
+  **Yutao Sun**\*, Li Dong\*, Shaohan Huang, Shuming Ma, Yuqing Xia, Jilong Xue, Jianyong Wang, Furu Wei.  
+  arXiv:2307.08621, 2023.  
+  \[[pdf](https://arxiv.org/pdf/2307.08621.pdf)\]\[[code](https://github.com/microsoft/unilm/tree/master/retnet)\]
+* [**Structured Prompting: Scaling In-Context Learning to 1,000 Examples**](https://arxiv.org/pdf/2212.06713.pdf)  
+  Yaru Hao\*, **Yutao Sun**\*, Li Dong, Zhixiong Han, Yuxian Gu, Furu Wei.  
+  arXiv:2212.06713, 2022.  
+  \[[pdf](https://arxiv.org/pdf/2212.06713.pdf)\]\[[code](https://github.com/sunyt32/structured-prompting)\]
+
+## Conference
+* [**A Length-Extrapolatable Transformer**](https://arxiv.org/pdf/2212.10554.pdf)  
+  **Yutao Sun**, Li Dong, Barun Patra, Shuming Ma, Shaohan Huang, Alon Benhaim, Vishrav Chaudhary, Xia Song, Furu Wei.
+  Association for Computational Linguistics (ACL), Long paper, 2023.  
+  \[[pdf](https://arxiv.org/pdf/2212.10554.pdf)\]\[[code](https://github.com/sunyt32/torchscale)\]
+* [**Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers**](https://arxiv.org/pdf/2212.10559.pdf)  
+  Damai Dai, **Yutao Sun**, Li Dong, Yaru Hao, Shuming Ma, Zhifang Sui, Furu Wei.
+  Findings of Association for Computational Linguistics (Findings of ACL), Long paper, 2023.  
+  \[[pdf](https://arxiv.org/pdf/2212.10559.pdf)\]
+* [**Prototypical Calibration for Few-shot Learning of Language Models**](https://arxiv.org/pdf/2205.10183.pdf)  
+  Zhixiong Han, Yaru Hao, Li Dong, **Yutao Sun**, Furu Wei.  
+  International Conference on Learning Representations (ICLR), 2023.  
+  \[[pdf](https://arxiv.org/pdf/2205.10183.pdf)\]
+
+# Honors & Awards
+* (06/2023) Outstanding Graduate & Thesis, Tsinghua University 
+* (09/2022) Tang Jun-Yuan Scolarship, Tsinghua University 
+* (09/2020) Academic & Social Work Excellence Award, Tsinghua University
+
+# Teaching Experience
+* Teaching Assistant in Software Engineering (2022 Spring, 2022 Fall, 2023 Fall)
