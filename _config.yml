@@ -3,6 +3,7 @@ title: Yutao Sun
 baseurl: "/about"
 url: "https://sunyt32.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
+theme: ap
 
 # Author
 author:
