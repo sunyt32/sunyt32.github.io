@@ -21,7 +21,7 @@ Links: \[[GitHub](https://github.com/sunyt32)\] \[[Twitter](https://twitter.com/
 
 ## Preprint
 * [**Differential Transformer**](https://arxiv.org/pdf/2410.05258.pdf)  
-  Tianzhu Ye\*, Li Dong\*, Yuqing Xia\*, **Yutao Sun**\*, Yi Zhu, Gao Huang, Furu Wei.
+  Tianzhu Ye\*, Li Dong\*, Yuqing Xia\*, **Yutao Sun**\*, Yi Zhu, Gao Huang, Furu Wei.  
   arXiv:2307.08621, 2023.  
   \[[pdf](https://arxiv.org/pdf/2410.05258.pdf)\]\[[code](https://aka.ms/Diff-Transformer)\]
 * [**Retentive Network: A Successor to Transformer for Large Language Models**](https://arxiv.org/pdf/2307.08621.pdf)  
@@ -36,7 +36,7 @@ Links: \[[GitHub](https://github.com/sunyt32)\] \[[Twitter](https://twitter.com/
 ## Conference
 * [**You Only Cache Once: Decoder-Decoder Architectures for Language Models**](https://arxiv.org/pdf/2405.05254.pdf)  
   **Yutao Sun**\*, Li Dong\*, Yi Zhu, Shaohan Huang, Wenhui Wang, Shuming Ma, Quanlu Zhang, Jianyong Wang, Furu Wei.  
-  Neural Information Processing Systems (NeurIPS), Oral, 2024. 
+  Neural Information Processing Systems (NeurIPS), Oral, 2024.  
   \[[pdf](https://arxiv.org/pdf/2405.05254.pdf)\]\[[code](https://aka.ms/YOCO)\] 
 * [**A Length-Extrapolatable Transformer**](https://arxiv.org/pdf/2212.10554.pdf)  
   **Yutao Sun**, Li Dong, Barun Patra, Shuming Ma, Shaohan Huang, Alon Benhaim, Vishrav Chaudhary, Xia Song, Furu Wei.
