@@ -3,7 +3,7 @@ layout: about
 ---
 
 # About Me
-I'm a first-year PhD student in Tsinghua University, advised by [Jianyong Wang](http://dbgroup.cs.tsinghua.edu.cn/wangjy/). Meanwhile, I'm working as a research intern in Microsoft Research Asia, mentored by [Li Dong](http://dong.li/). My research interest is the LLM backbone, long sequence’s modeling and inference, and LLM’s application on other domains.
+I'm a second-year PhD student in Tsinghua University, advised by [Jianyong Wang](http://dbgroup.cs.tsinghua.edu.cn/wangjy/). Meanwhile, I'm working as a research intern in Microsoft Research Asia, mentored by [Li Dong](http://dong.li/). My research interest is the LLM backbone, long sequence's modeling and inference, and Multimodal LLM.
 
 Email: syt23@mails.tsinghua.edu.cn  
 Links: \[[GitHub](https://github.com/sunyt32)\] \[[Twitter](https://twitter.com/sunyt_thu)\] \[[Google Scholar](https://scholar.google.com/citations?user=apGDooYAAAAJ&hl=en)\]
@@ -17,13 +17,13 @@ Links: \[[GitHub](https://github.com/sunyt32)\] \[[Twitter](https://twitter.com/
   * Participated in Physics Olympics and achieved nothing
 
 
-# Publications
+# Selected Publications
 
 ## Preprint
-* [**You Only Cache Once: Decoder-Decoder Architectures for Language Models**](https://arxiv.org/pdf/2405.05254.pdf)  
-  **Yutao Sun**\*, Li Dong\*, Yi Zhu, Shaohan Huang, Wenhui Wang, Shuming Ma, Quanlu Zhang, Jianyong Wang, Furu Wei.  
-  arXiv:2405.05254, 2024.  
-  \[[pdf](https://arxiv.org/pdf/2405.05254.pdf)\]\[[code](https://aka.ms/YOCO)\]
+* [**Differential Transformer**](https://arxiv.org/pdf/2410.05258.pdf)  
+  Tianzhu Ye\*, Li Dong\*, Yuqing Xia\*, **Yutao Sun**\*, Yi Zhu, Gao Huang, Furu Wei.
+  arXiv:2307.08621, 2023.  
+  \[[pdf](https://arxiv.org/pdf/2410.05258.pdf)\]\[[code](https://aka.ms/Diff-Transformer)\]
 * [**Retentive Network: A Successor to Transformer for Large Language Models**](https://arxiv.org/pdf/2307.08621.pdf)  
   **Yutao Sun**\*, Li Dong\*, Shaohan Huang, Shuming Ma, Yuqing Xia, Jilong Xue, Jianyong Wang, Furu Wei.  
   arXiv:2307.08621, 2023.  
@@ -34,6 +34,10 @@ Links: \[[GitHub](https://github.com/sunyt32)\] \[[Twitter](https://twitter.com/
   \[[pdf](https://arxiv.org/pdf/2212.06713.pdf)\]\[[code](https://github.com/sunyt32/structured-prompting)\]
 
 ## Conference
+* [**You Only Cache Once: Decoder-Decoder Architectures for Language Models**](https://arxiv.org/pdf/2405.05254.pdf)  
+  **Yutao Sun**\*, Li Dong\*, Yi Zhu, Shaohan Huang, Wenhui Wang, Shuming Ma, Quanlu Zhang, Jianyong Wang, Furu Wei.  
+  Neural Information Processing Systems (NeurIPS), Oral, 2024. 
+  \[[pdf](https://arxiv.org/pdf/2405.05254.pdf)\]\[[code](https://aka.ms/YOCO)\] 
 * [**A Length-Extrapolatable Transformer**](https://arxiv.org/pdf/2212.10554.pdf)  
   **Yutao Sun**, Li Dong, Barun Patra, Shuming Ma, Shaohan Huang, Alon Benhaim, Vishrav Chaudhary, Xia Song, Furu Wei.
   Association for Computational Linguistics (ACL), Long paper, 2023.  
@@ -42,13 +46,10 @@ Links: \[[GitHub](https://github.com/sunyt32)\] \[[Twitter](https://twitter.com/
   Damai Dai, **Yutao Sun**, Li Dong, Yaru Hao, Shuming Ma, Zhifang Sui, Furu Wei.
   Findings of Association for Computational Linguistics (Findings of ACL), Long paper, 2023.  
   \[[pdf](https://arxiv.org/pdf/2212.10559.pdf)\]
-* [**Prototypical Calibration for Few-shot Learning of Language Models**](https://arxiv.org/pdf/2205.10183.pdf)  
-  Zhixiong Han, Yaru Hao, Li Dong, **Yutao Sun**, Furu Wei.  
-  International Conference on Learning Representations (ICLR), 2023.  
-  \[[pdf](https://arxiv.org/pdf/2205.10183.pdf)\]
 
 # Talks
-* (07/2023) RetNet at BAAI and DAMO Academy
+* (08/2024) YOCO at Unify, SDU, and Danqi's group in Princeton
+* (07/2023) RetNet at BAAI, DAMO Academy, and HanLab in MIT
 
 # Honors & Awards
 * (06/2023) Outstanding Graduate & Thesis, Tsinghua University 
