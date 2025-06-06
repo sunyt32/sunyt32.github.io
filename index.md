@@ -20,10 +20,14 @@ Links: \[[GitHub](https://github.com/sunyt32)\] \[[Twitter](https://twitter.com/
 # Selected Publications
 
 ## Preprint
-* [**Differential Transformer**](https://arxiv.org/pdf/2410.05258.pdf)  
-  Tianzhu Ye\*, Li Dong\*, Yuqing Xia\*, **Yutao Sun**\*, Yi Zhu, Gao Huang, Furu Wei.  
-  arXiv:2307.08621, 2023.  
-  \[[pdf](https://arxiv.org/pdf/2410.05258.pdf)\]\[[code](https://aka.ms/Diff-Transformer)\]
+* [**Rectified Sparse Attention**](https://arxiv.org/pdf/2506.04108.pdf)  
+  **Yutao Sun**\*, Tianzhu Ye\*, Li Dong\*, Yuqing Xia\*, Jian Chen, Yizhao Gao, Shijie Cao, Jianyong Wang, Furu Wei.  
+  arXiv:2506.04108, 2025.
+  \[[pdf](https://arxiv.org/pdf/2506.04108.pdf)\]\[[code](https://aka.ms/ReSA-LM)\]
+* [**Multimodal Latent Language Modeling with Next-Token Diffusion**](https://arxiv.org/pdf/2412.08635.pdf)  
+  **Yutao Sun**\*, Hangbo Bao\*, Wenhui Wang\*, Zhiliang Peng\*, Li Dong\*, Shaohan Huang, Jianyong Wang, Furu Wei
+  arXiv:2412.08635, 2024.
+  \[[pdf](https://arxiv.org/pdf/2412.08635.pdf)\]\[[code](https://aka.ms/latentlm)\]
 * [**Retentive Network: A Successor to Transformer for Large Language Models**](https://arxiv.org/pdf/2307.08621.pdf)  
   **Yutao Sun**\*, Li Dong\*, Shaohan Huang, Shuming Ma, Yuqing Xia, Jilong Xue, Jianyong Wang, Furu Wei.  
   arXiv:2307.08621, 2023.  
@@ -34,6 +38,11 @@ Links: \[[GitHub](https://github.com/sunyt32)\] \[[Twitter](https://twitter.com/
   \[[pdf](https://arxiv.org/pdf/2212.06713.pdf)\]\[[code](https://github.com/sunyt32/structured-prompting)\]
 
 ## Conference
+* [**Differential Transformer**](https://arxiv.org/pdf/2410.05258.pdf)  
+  Tianzhu Ye\*, Li Dong\*, Yuqing Xia\*, **Yutao Sun**\*, Yi Zhu, Gao Huang, Furu Wei.  
+  arXiv:2307.08621, 2023.
+  International Conference on Learning Representations (ICLR), Oral, 2025.
+  \[[pdf](https://arxiv.org/pdf/2410.05258.pdf)\]\[[code](https://aka.ms/Diff-Transformer)\]
 * [**You Only Cache Once: Decoder-Decoder Architectures for Language Models**](https://arxiv.org/pdf/2405.05254.pdf)  
   **Yutao Sun**\*, Li Dong\*, Yi Zhu, Shaohan Huang, Wenhui Wang, Shuming Ma, Quanlu Zhang, Jianyong Wang, Furu Wei.  
   Neural Information Processing Systems (NeurIPS), Oral, 2024.  
@@ -48,8 +57,9 @@ Links: \[[GitHub](https://github.com/sunyt32)\] \[[Twitter](https://twitter.com/
   \[[pdf](https://arxiv.org/pdf/2212.10559.pdf)\]
 
 # Talks
-* (08/2024) YOCO at Unify, SDU, and Danqi's group in Princeton
-* (07/2023) RetNet at BAAI, DAMO Academy, and HanLab in MIT
+* (2025) The Revolution of Foundation Architecture at Shanghai Innovation Institute
+* (2024) YOCO at Unify, SDU, and Danqi's group in Princeton
+* (2023) RetNet at BAAI, DAMO Academy, and HanLab in MIT
 
 # Honors & Awards
 * (06/2023) Outstanding Graduate & Thesis, Tsinghua University 
