@@ -3,14 +3,15 @@ layout: about
 ---
 
 # About Me
-I'm a second-year PhD student in Tsinghua University, advised by [Jianyong Wang](http://dbgroup.cs.tsinghua.edu.cn/wangjy/). Meanwhile, I'm working as a research intern in Microsoft Research Asia, mentored by [Li Dong](http://dong.li/). My research interest is the LLM backbone, long sequence's modeling and inference, and Multimodal LLM.
+I'm a PhD candidate in Tsinghua University, advised by [Jianyong Wang](http://dbgroup.cs.tsinghua.edu.cn/wangjy/). Meanwhile, I am a Pre-Career Scholar in Shanghai Innovation Institute. I have been working as a research intern in Microsoft Research Asia since Jul 2023, mentored by [Li Dong](http://dong.li/).
+My research interests span two main directions. The first focuses on the architecture and pre-training of LLM, including attention mechanism design, and scalable inference and generation for long-context modeling. The second centers on multimodal world models, with an emphasis on unified multimodal architectures and autoregressive video generation, as well as their applications in embodied intelligence and real-time video interaction.
 
 Email: syt23@mails.tsinghua.edu.cn  
 Links: \[[GitHub](https://github.com/sunyt32)\] \[[Twitter](https://twitter.com/sunyt_thu)\] \[[Google Scholar](https://scholar.google.com/citations?user=apGDooYAAAAJ&hl=en)\]
 
 # Education
-* Ph.D. student, Tsinghua University (2023/08 ~ )
-* Undergrauate student, Tsinghua University (2018/08 ~ 2023/07)
+* Ph.D., Tsinghua University (2023/08 ~ )
+* Undergrauate, Tsinghua University (2018/08 ~ 2023/07)
   * Computer Science and Technology (2020/08 ~ 2023/07)
   * Mathematics and Physics (2018/08 ~ 2020/07)
 * Taiyuan No.5 Middle School (2015/08 ~ 2018/07)
@@ -20,13 +21,16 @@ Links: \[[GitHub](https://github.com/sunyt32)\] \[[Twitter](https://twitter.com/
 # Selected Publications
 
 ## Preprint
+* [**Efficient attention mechanisms for large language models: A survey**](https://arxiv.org/pdf/2507.19595.pdf)  
+  **Yutao Sun**\*, Zhenyu Li\*, Yike Zhang\*, Tengyu Pan\*, Bowen Dong\*, Yuyi Guo, Jianyong Wang
+  arXiv:2507.19595, 2025.  
 * [**Rectified Sparse Attention**](https://arxiv.org/pdf/2506.04108.pdf)  
   **Yutao Sun**\*, Tianzhu Ye\*, Li Dong\*, Yuqing Xia\*, Jian Chen, Yizhao Gao, Shijie Cao, Jianyong Wang, Furu Wei.  
-  arXiv:2506.04108, 2025.
+  arXiv:2506.04108, 2025.  
   \[[pdf](https://arxiv.org/pdf/2506.04108.pdf)\]\[[code](https://aka.ms/ReSA-LM)\]
 * [**Multimodal Latent Language Modeling with Next-Token Diffusion**](https://arxiv.org/pdf/2412.08635.pdf)  
   **Yutao Sun**\*, Hangbo Bao\*, Wenhui Wang\*, Zhiliang Peng\*, Li Dong\*, Shaohan Huang, Jianyong Wang, Furu Wei
-  arXiv:2412.08635, 2024.
+  arXiv:2412.08635, 2024.  
   \[[pdf](https://arxiv.org/pdf/2412.08635.pdf)\]\[[code](https://aka.ms/latentlm)\]
 * [**Retentive Network: A Successor to Transformer for Large Language Models**](https://arxiv.org/pdf/2307.08621.pdf)  
   **Yutao Sun**\*, Li Dong\*, Shaohan Huang, Shuming Ma, Yuqing Xia, Jilong Xue, Jianyong Wang, Furu Wei.  
@@ -57,7 +61,7 @@ Links: \[[GitHub](https://github.com/sunyt32)\] \[[Twitter](https://twitter.com/
   \[[pdf](https://arxiv.org/pdf/2212.10559.pdf)\]
 
 # Talks
-* (2025) The Revolution of Foundation Architecture at Shanghai Innovation Institute
+* (2025) The Revolution of Foundation Architecture at SII
 * (2024) YOCO at Unify, SDU, and Danqi's group in Princeton
 * (2023) RetNet at BAAI, DAMO Academy, and HanLab in MIT
 
@@ -67,5 +71,6 @@ Links: \[[GitHub](https://github.com/sunyt32)\] \[[Twitter](https://twitter.com/
 * (09/2020) Academic & Social Work Excellence Award, Tsinghua University
 
 # Teaching Experience
+* Teaching Assistant in Data Mining (2025 Fall)
 * Teaching Assistant in Object-Oriented Programming (2024 Spring)
 * Teaching Assistant in Software Engineering (2022 Spring, 2022 Fall, 2023 Fall)
