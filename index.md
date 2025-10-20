@@ -4,6 +4,7 @@ layout: about
 
 # About Me
 I'm a PhD candidate in Tsinghua University, advised by [Jianyong Wang](http://dbgroup.cs.tsinghua.edu.cn/wangjy/). Meanwhile, I am a Pre-Career Scholar in Shanghai Innovation Institute. I have been working as a research intern in Microsoft Research Asia since Jul 2023, mentored by [Li Dong](http://dong.li/).
+
 My research interests span two main directions. The first focuses on the architecture and pre-training of LLM, including attention mechanism design, and scalable inference and generation for long-context modeling. The second centers on multimodal world models, with an emphasis on unified multimodal architectures and autoregressive video generation, as well as their applications in embodied intelligence and real-time video interaction.
 
 Email: syt23@mails.tsinghua.edu.cn  
@@ -36,10 +37,6 @@ Links: \[[GitHub](https://github.com/sunyt32)\] \[[Twitter](https://twitter.com/
   **Yutao Sun**\*, Li Dong\*, Shaohan Huang, Shuming Ma, Yuqing Xia, Jilong Xue, Jianyong Wang, Furu Wei.  
   arXiv:2307.08621, 2023.  
   \[[pdf](https://arxiv.org/pdf/2307.08621.pdf)\]\[[code](https://aka.ms/retnet)\]
-* [**Structured Prompting: Scaling In-Context Learning to 1,000 Examples**](https://arxiv.org/pdf/2212.06713.pdf)  
-  Yaru Hao\*, **Yutao Sun**\*, Li Dong, Zhixiong Han, Yuxian Gu, Furu Wei.  
-  arXiv:2212.06713, 2022.  
-  \[[pdf](https://arxiv.org/pdf/2212.06713.pdf)\]\[[code](https://github.com/sunyt32/structured-prompting)\]
 
 ## Conference
 * [**Differential Transformer**](https://arxiv.org/pdf/2410.05258.pdf)  
