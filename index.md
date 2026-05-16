@@ -32,15 +32,15 @@ Links: \[[GitHub](https://github.com/sunyt32)\] \[[Google Scholar](https://schol
 ## Conference
 * [**Multimodal Latent Language Modeling with Next-Token Diffusion**](https://arxiv.org/pdf/2412.08635.pdf)  
   **Yutao Sun**\*, Hangbo Bao\*, Wenhui Wang\*, Zhiliang Peng\*, Li Dong\*, Shaohan Huang, Jianyong Wang, Furu Wei.  
-  International Conference of Machine Learning (ICML), Spotlight, 2026. 
+  International Conference of Machine Learning (ICML), Spotlight, 2026.  
   \[[pdf](https://arxiv.org/pdf/2508.19205.pdf)\]\[[code](https://aka.ms/VibeVoice)\]
 * [**VibeVoice: Expressive Podcast Generation with Next-Token Diffusion**](https://arxiv.org/pdf/2508.19205.pdf)  
   Zhiliang Peng\*, Jianwei Yu\*, Wenhui Wang\*, Yaoyao Chang\*, **Yutao Sun**\*, Li Dong\*, Yi Zhu, Weijiang Xu, Hangbo Bao, Zehua Wang, Shaohan Huang, Yan Xia, Furu Wei.  
-  International Conference on Learning Representations (ICLR), Oral, 2026.
+  International Conference on Learning Representations (ICLR), Oral, 2026.  
   \[[pdf](https://arxiv.org/pdf/2508.19205.pdf)\]\[[code](https://aka.ms/VibeVoice)\]
 * [**Differential Transformer**](https://arxiv.org/pdf/2410.05258.pdf)  
   Tianzhu Ye\*, Li Dong\*, Yuqing Xia\*, **Yutao Sun**\*, Yi Zhu, Gao Huang, Furu Wei.  
-  International Conference on Learning Representations (ICLR), Oral, 2025.
+  International Conference on Learning Representations (ICLR), Oral, 2025.  
   \[[pdf](https://arxiv.org/pdf/2410.05258.pdf)\]\[[code](https://aka.ms/Diff-Transformer)\]
 * [**You Only Cache Once: Decoder-Decoder Architectures for Language Models**](https://arxiv.org/pdf/2405.05254.pdf)  
   **Yutao Sun**\*, Li Dong\*, Yi Zhu, Shaohan Huang, Wenhui Wang, Shuming Ma, Quanlu Zhang, Jianyong Wang, Furu Wei.  
