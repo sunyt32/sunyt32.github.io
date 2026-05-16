@@ -18,9 +18,9 @@ Links: \[[GitHub](https://github.com/sunyt32)\] \[[Google Scholar](https://schol
   arXiv:2604.01220, 2026.  
   \[[pdf](https://arxiv.org/pdf/2604.01220.pdf)\]
 * [**Geometric Autoencoder for Diffusion Models**](https://arxiv.org/pdf/2603.10365.pdf)  
-  Hangyu Liu, Jianyong Wang, **Yutao Sun**. 
+  Hangyu Liu, Jianyong Wang, **Yutao Sun**.  
   arXiv:2603.10365, 2026.  
-  \[[pdf](https://arxiv.org/pdf/2604.01220.pdf)\]
+  \[[pdf](https://arxiv.org/pdf/2604.01220.pdf)\]\[[code](https://github.com/sii-research/GAE)\]
 * [**Efficient attention mechanisms for large language models: A survey**](https://arxiv.org/pdf/2507.19595.pdf)  
   **Yutao Sun**\*, Zhenyu Li\*, Yike Zhang\*, Tengyu Pan\*, Bowen Dong\*, Yuyi Guo, Jianyong Wang.
   arXiv:2507.19595, 2025.  
@@ -31,11 +31,11 @@ Links: \[[GitHub](https://github.com/sunyt32)\] \[[Google Scholar](https://schol
 
 ## Conference
 * [**Multimodal Latent Language Modeling with Next-Token Diffusion**](https://arxiv.org/pdf/2412.08635.pdf)  
-  **Yutao Sun**\*, Hangbo Bao\*, Wenhui Wang\*, Zhiliang Peng\*, Li Dong\*, Shaohan Huang, Jianyong Wang, Furu Wei. 
+  **Yutao Sun**\*, Hangbo Bao\*, Wenhui Wang\*, Zhiliang Peng\*, Li Dong\*, Shaohan Huang, Jianyong Wang, Furu Wei.  
   International Conference of Machine Learning (ICML), Spotlight, 2026. 
   \[[pdf](https://arxiv.org/pdf/2508.19205.pdf)\]\[[code](https://aka.ms/VibeVoice)\]
 * [**VibeVoice: Expressive Podcast Generation with Next-Token Diffusion**](https://arxiv.org/pdf/2508.19205.pdf)  
-  Zhiliang Peng\*, Jianwei Yu\*, Wenhui Wang\*, Yaoyao Chang\*, **Yutao Sun**\*, Li Dong\*, Yi Zhu, Weijiang Xu, Hangbo Bao, Zehua Wang, Shaohan Huang, Yan Xia, Furu Wei. 
+  Zhiliang Peng\*, Jianwei Yu\*, Wenhui Wang\*, Yaoyao Chang\*, **Yutao Sun**\*, Li Dong\*, Yi Zhu, Weijiang Xu, Hangbo Bao, Zehua Wang, Shaohan Huang, Yan Xia, Furu Wei.  
   International Conference on Learning Representations (ICLR), Oral, 2026.
   \[[pdf](https://arxiv.org/pdf/2508.19205.pdf)\]\[[code](https://aka.ms/VibeVoice)\]
 * [**Differential Transformer**](https://arxiv.org/pdf/2410.05258.pdf)  
