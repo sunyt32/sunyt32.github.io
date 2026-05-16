@@ -7,7 +7,7 @@ I'm a PhD candidate in Tsinghua University, advised by [Jianyong Wang](http://db
 
 My research interests span two main directions. The first focuses on the architecture and pre-training of LLM, including attention mechanism design, and scalable inference and generation for long-context modeling. The second centers on multimodal world models, with an emphasis on unified multimodal architectures and autoregressive video generation, as well as their applications in embodied intelligence and real-time video interaction.
 
-Email: syt23@mails.tsinghua.edu.cn, sunyutao@sii.edu.cn
+Email: syt23@mails.tsinghua.edu.cn, sunyutao@sii.edu.cn 
 Links: \[[GitHub](https://github.com/sunyt32)\] \[[Google Scholar](https://scholar.google.com/citations?user=apGDooYAAAAJ&hl=en)\]
 
 # Selected Publications
@@ -18,7 +18,7 @@ Links: \[[GitHub](https://github.com/sunyt32)\] \[[Google Scholar](https://schol
   arXiv:2604.01220, 2026.  
   \[[pdf](https://arxiv.org/pdf/2604.01220.pdf)\]
 * [**Geometric Autoencoder for Diffusion Models**](https://arxiv.org/pdf/2603.10365.pdf)  
-  Hangyu Liu, Jianyong Wang, **Yutao Sun**.
+  Hangyu Liu, Jianyong Wang, **Yutao Sun**. 
   arXiv:2603.10365, 2026.  
   \[[pdf](https://arxiv.org/pdf/2604.01220.pdf)\]
 * [**Efficient attention mechanisms for large language models: A survey**](https://arxiv.org/pdf/2507.19595.pdf)  
@@ -31,16 +31,15 @@ Links: \[[GitHub](https://github.com/sunyt32)\] \[[Google Scholar](https://schol
 
 ## Conference
 * [**Multimodal Latent Language Modeling with Next-Token Diffusion**](https://arxiv.org/pdf/2412.08635.pdf)  
-  **Yutao Sun**\*, Hangbo Bao\*, Wenhui Wang\*, Zhiliang Peng\*, Li Dong\*, Shaohan Huang, Jianyong Wang, Furu Wei.
+  **Yutao Sun**\*, Hangbo Bao\*, Wenhui Wang\*, Zhiliang Peng\*, Li Dong\*, Shaohan Huang, Jianyong Wang, Furu Wei. 
   International Conference of Machine Learning (ICML), Spotlight, 2026. 
   \[[pdf](https://arxiv.org/pdf/2508.19205.pdf)\]\[[code](https://aka.ms/VibeVoice)\]
 * [**VibeVoice: Expressive Podcast Generation with Next-Token Diffusion**](https://arxiv.org/pdf/2508.19205.pdf)  
-  Zhiliang Peng\*, Jianwei Yu\*, Wenhui Wang\*, Yaoyao Chang\*, **Yutao Sun**\*, Li Dong\*, Yi Zhu, Weijiang Xu, Hangbo Bao, Zehua Wang, Shaohan Huang, Yan Xia, Furu Wei.
+  Zhiliang Peng\*, Jianwei Yu\*, Wenhui Wang\*, Yaoyao Chang\*, **Yutao Sun**\*, Li Dong\*, Yi Zhu, Weijiang Xu, Hangbo Bao, Zehua Wang, Shaohan Huang, Yan Xia, Furu Wei. 
   International Conference on Learning Representations (ICLR), Oral, 2026.
   \[[pdf](https://arxiv.org/pdf/2508.19205.pdf)\]\[[code](https://aka.ms/VibeVoice)\]
 * [**Differential Transformer**](https://arxiv.org/pdf/2410.05258.pdf)  
   Tianzhu Ye\*, Li Dong\*, Yuqing Xia\*, **Yutao Sun**\*, Yi Zhu, Gao Huang, Furu Wei.  
-  arXiv:2307.08621, 2023.
   International Conference on Learning Representations (ICLR), Oral, 2025.
   \[[pdf](https://arxiv.org/pdf/2410.05258.pdf)\]\[[code](https://aka.ms/Diff-Transformer)\]
 * [**You Only Cache Once: Decoder-Decoder Architectures for Language Models**](https://arxiv.org/pdf/2405.05254.pdf)  
